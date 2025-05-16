@@ -26,3 +26,9 @@ To run this project locally:
 2. Open `index.html` in your browser.
 
 ## 📸 Screenshots
+
+  ![Image](https://github.com/user-attachments/assets/961498b7-887b-47bd-9bf7-be80e9f1bccb)
+  ![Image](https://github.com/user-attachments/assets/1387078d-5f1d-44a8-b4b5-04224c4920e1)
+  ![Image](https://github.com/user-attachments/assets/f8b70430-7b04-4a0e-bd64-9de6ae38b0d9)
+  ![Image](https://github.com/user-attachments/assets/4e6a287d-c354-46d1-8e7a-e6b392d6147c)
+  ![Image](https://github.com/user-attachments/assets/52508b9e-cebf-4ddb-a2a3-22cdff44ec04)
