@@ -25,7 +25,9 @@ To run this project locally:
 1. Clone this repository or download the ZIP.
 2. Open `index.html` in your browser.
 
+##
 📢 "Please be patient — a live demo will be available very soon."
+##
 
 ## 📸 Screenshots
 
