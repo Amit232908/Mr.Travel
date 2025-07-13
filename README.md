@@ -2,6 +2,10 @@
 
 **Mr.Travel** is a front-end travel-themed web application that showcases popular tourist destinations from around the world with engaging visuals and interactive content. Built with HTML, CSS, and JavaScript, it's a visually rich project ideal for learning or portfolio demonstration.
 
+# 🖼️ Live Demo
+
+https://mrtraveldemo.netlify.app/
+
 ## 🧰 Tech Stack
 
 - **HTML5** – Structure of the web page
